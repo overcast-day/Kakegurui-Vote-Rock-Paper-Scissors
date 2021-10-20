@@ -5,7 +5,7 @@ Variation of Rock, Paper, Scissors based on the one in the manga series *Kakegur
 -----------
 My first ever code project created during high school in 2017
 
-Used: Apache NetBeans and Java
+Used: NetBeans and Java
 
 Game Description and Rules
 -----------
