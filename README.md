@@ -1,6 +1,6 @@
 # Vote Rock-Paper-Scissors (Tōhyō Janken)
 
-Variation of Rock, Paper, Scissors based on the one in the manga and anime series [*Kakegurui* ](https://www.youtube.com/watch?v=8TMibLdjzDQ)
+Variation of Rock, Paper, Scissors based on the one in the manga and anime series [*Kakegurui* ](https://www.youtube.com/watch?v=iiSXg3zowM4)
 
 -----------
 My first ever code project created during high school in 2017
