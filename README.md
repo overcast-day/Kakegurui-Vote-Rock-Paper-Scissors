@@ -1,6 +1,6 @@
 # Vote Rock-Paper-Scissors (Tōhyō Janken)
 
-Variation of Rock, Paper, Scissors based on the one in the manga series *Kakegurui* 
+Variation of Rock, Paper, Scissors based on the one in the manga and anime series [*Kakegurui* ](https://www.youtube.com/watch?v=8TMibLdjzDQ)
 
 -----------
 My first ever code project created during high school in 2017
@@ -11,7 +11,7 @@ Game Description and Rules
 -----------
 2 player game where players start with points and bet them while playing Rock, Paper, Scissor with the hand of cards they hold. 
 
-*Note: The game was designed to be player on one moniter, so set up a divider in the middle of the screen before playing.
+*Note: The game was designed to be played on one moniter, so set up a divider in the middle of the screen before playing.*
 
 1. Players make bets.
 2. After betting, each player receives the same number of cards, for which they can decide the amount of rocks, papers and scissors to place into the shared card pool.
