@@ -1,4 +1,4 @@
-# Vote-Rock-Paper-Scissors (Tōhyō Janken)
+# Vote Rock-Paper-Scissors (Tōhyō Janken)
 
 Variation of Rock, Paper, Scissors based on the one in the manga series *Kakegurui* 
 
